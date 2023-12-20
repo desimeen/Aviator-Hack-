@@ -1,0 +1,11 @@
+1win Aviator hacking
+next
+20.9x
+met
+echo "# Aviator-Hack-" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/desimeen/Aviator-Hack-.git
+git push -u origin main next
